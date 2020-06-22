@@ -3,3 +3,7 @@
 .classpath
 .project
 /target/
+/.gradle
+/bin
+/build
+/gradle
